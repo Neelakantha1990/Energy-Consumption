@@ -3,9 +3,10 @@
 Background   and   Introduction:   -
 
 Analysis of heating load and cooling load is paramount to check the energy consumption of a building. We attempt to determine and establish relationship between the heating and cooling load and the building parameters. We use 12 different building shapes simulation in Ecotect (a feature of Autodesk). Most importantly, the buildings differ with respect to the glazing area distribution, and the orientation, amongst other parameters. We will simulate various settings as functions of the aforementioned characteristics to obtain 768 building   shapes.
-Origin   of   Data: -
 
+Origin   of   Data: -
 The dataset comprises 768 samples and 8 features, aiming to predict two real valued responses. It can also be used as a multi-class classification problem if the response is rounded to the nearest integer. The data set was created in November 2012 and to proceed with this we would prefer to use Machine Learning methods to perform the analysis.   Our   main   aim   was   to   select   an   industrial   machine   analysis   data.
+
 Problems:   -
 ● Assessing   heating   load   and   cooling   load   requirements   of   buildings   (i.e.   energy
 efficiency)   as   a   function   of   building   parameters.
